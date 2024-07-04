@@ -11,3 +11,9 @@ My fav meals:
 
 - rice
 - plantain
+
+Stevie's fav ice cream flavs:
+
+- Meal worm
+- Shrimp flakes
+- Sunflower seed
