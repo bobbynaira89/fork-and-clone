@@ -6,3 +6,8 @@ My fav ice cream flavs:
 
 - Pepper Stick
 - Mint Chip
+
+My fav meals:
+
+- rice
+- plantain
